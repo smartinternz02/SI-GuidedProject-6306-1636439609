@@ -1,0 +1,25 @@
+1. Connected Car - Connecting cars to smartphones of users allows them to call their car to their current location as well as keep track of the current location of their car
+2. Smart Home - In a smart Home all the things we use for our daily lives have tiny embedded chips in them allowing them to do much more than traditional household appliances
+3. Smart City - This application consists of so many use cases like water management, traffic, and electricity management, waste management, etc. 
+4. Precision Farming - Use of sensors and other smart devices to keep track of health of crop and remove pesticeds
+5. Agricultural Drone - Evaluate field analysis, crop health, crop growth, and pest attack.
+6. Smart Grid - smart Electrical power systems to ensure load is balanced correctly among its varuois users
+7. Connected Factories - A connected network with different tasks like schedule maintenance, the shipment of products, the flow of operation control and stop or pause a specific process.
+8. Smart Retail - A combination of “things” like RFID chip, foot traffic counter, and Wi-Fi monitoring and mobile application of the customer. 
+9. Supply Chain Management by IoT - Ensures product transportation to the retailer, which increases the efficiency of the supply chain.
+10. Traffic Monitoring System by IoT - This application can count several vehicles on each side of the road and apply the KNN algorithm to measure the waiting time of each side.
+
+11. Forest Fire Detection by IoT - Wireless sensor around the forest detects humidity from air and stores it in the cloud. If humidity is over a threshold system push notification to monitoring authority.
+
+12. Portable Water Quality Assurance - The system sends notifications if common parameters include PH, salinity, temperature, turbidity, oxidation-reduction, and so more found one of the above danger levels.
+
+13. Structural Health Monitoring - Provide accurate and real-time information about any construction.
+14. Radioactivity Monitoring - GM counter is a radiation sensor that can detect radiation in an area and send a notification to the cloud.
+15. IoT Controlled Golf Course - Analyze and visualize the data of the golf course such as soil moisture, humidity, rainfall, temperatur
+16. IoT in Packaging Industry - To preserve a product, the properly accurate temperature is needed. Embedded IoT sensors can change color if the product is beyond temperature.
+17. Landslide Detection by IoT Application - Data analysis center analyzes data found from the sensor and using proper algorithms they will predict a landslide in an area.
+
+18. The Volume of Visitors Check by Smart Phone Detection - This application detects the duration of stay, total project visitors, visitor’s volume per location, and so much data of that event.
+
+19. Waste Management IoT Application - The system proposes sensors would be connected with each bin. If the amount of waste goes beyond the threshold, each bin will send notifications to the leading cloud program.
+20. Urban Noise Detection - The IoT solution of this problem is to use of each smartphone as a sensor by embedding noise label detecting mobile apps. Data found from each location will save in the cloud, and a software program will show each zone with a high noise label.
